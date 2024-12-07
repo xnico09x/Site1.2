@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/Project_Pro/project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Site1.2"
+	}
+}
